@@ -1,6 +1,6 @@
 ![Image](https://github.com/AnaPatSilva/Walmart-Postgraduation_Workgroup-POWER_BI/blob/main/Walmart.jpg)
-# Walmart (Postgraduation Workgroup)
-# POWER BI
+# WALMART (Postgraduation Workgroup)
+# _Power BI_
 
 ## My Intro
 In the Data Analysis and Visualization Models module of my postgraduation we work essentially with Power BI.
